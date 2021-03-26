@@ -1,0 +1,20 @@
+{
+  "name": "tsnejs",
+  "version": "1.0.0",
+  "description": "tSNEJS is an implementation of t-SNE visualization algorithm in Javascript.",
+  "main": "tsne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrc03c/tsnejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrc03c/tsnejs/issues"
+  },
+  "homepage": "https://github.com/jrc03c/tsnejs#readme"
+}
