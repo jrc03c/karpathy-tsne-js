@@ -1,5 +1,5 @@
 {
-  "name": "tsnejs",
+  "name": "@jrc03c/karpathy-tsne-js",
   "version": "1.0.0",
   "description": "tSNEJS is an implementation of t-SNE visualization algorithm in Javascript.",
   "main": "tsne.js",
